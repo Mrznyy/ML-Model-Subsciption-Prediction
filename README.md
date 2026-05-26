@@ -90,3 +90,4 @@ python app.py
     "predicted_class": 0
 }
 ```
+<img width="721" height="686" alt="image" src="https://github.com/user-attachments/assets/379ed166-cb2d-4aea-aa73-6fff2c957595" />
